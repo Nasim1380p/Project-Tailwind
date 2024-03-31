@@ -1,5 +1,5 @@
 # Project6-Tailwind
- - [Demo Project](https://nasim1380p.github.io/project5-bootstrap/)
+ - [Demo Project](https://nasim1380p.github.io/Project-Tailwind/)
 
   
 ![pb1](https://github.com/Nasim1380p/project5-bootstrap/assets/155636802/cc08d7c3-095b-402a-8bd6-6fd778be8fa9)
