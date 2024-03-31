@@ -11,7 +11,7 @@
 
 - Created - 2024-08-01
 
-- Technologies Used - Html , scss  
+- Technologies Used - Html , scss , tailwind 
 
 - Hooks Used : useState 
 
